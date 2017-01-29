@@ -1,0 +1,59 @@
+body {
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  font-weight: bold;
+  font-family: PT Sans, Narrow;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 42px;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 42px;
+}
+
+.main-nav, .user {
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.feature-item {
+  color: #ffffff;
+}
+
+.feature-item h2 {
+  color: #ffffff;
+}
+
+.contacts, .social, .copyright{
+  color: #ffffff;
+}
+
+.content-brands-title {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.content-brands-title {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.content-catalog-name {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.current {
+  color: #aba9a7;
+}
+
+h2 .content-list-title {
+  font-size: 24px;
+  line-height: 30px;
+}
